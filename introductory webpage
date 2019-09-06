@@ -8,43 +8,23 @@
 		<h1> Welcome!! </h1>
 		<h3> This is my new page </h3>
 		
-		<p> My name is Chuck! </p>
+		<p> My name is Chuck! I am a Junior ICT major here at the University of Kentucky. I am also minoring in crimonolgy in hope to further my career into a govenrment cyber occupation. </p>
 		
 		<a href="https://www.instagram.com/chuckiebuckler/>">Please Follow </a>
-		
+		<p></p>
 		
 		<a href="https://www.google.com/">Click Here </a>
 		
 		<img src="http://www.hudl.com/profile/4242661/Chuckie-Buckler">
 		
+		<p> These are all the places I've lived! </p>
 		<ul>
 			<li>Lexington KY</li>
 			<li>Fort Thomas KY</li>
-			<li>Gatlinburg TN</li>
+			<li>Bellevue KY</li>
 		</ul>
 		
-		<table border="1">
-			<tr>
-				<th>First Name</th>
-				<th>Last Name</th>
-				<th>College They Attend</th>
-			</tr>
-			<tr>
-				<td>Chuck</td>
-				<td>Carter</td>
-				<td>Evan</td>
-			</tr>
-			<tr>
-				<td>Buckler</td>
-				<td>Burke</td>
-				<td>Fick</td>
-			</tr>
-			<tr>
-				<td>University of Kentucky</td>
-				<td>University of Cincy</td>
-				<td>Northern Kentucky University</td>
-			</tr>
-		</table>
+	
 		
 		<form>
 			Comment: <br>
