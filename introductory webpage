@@ -27,7 +27,7 @@
 	
 		
 		<form>
-			Comment: <br>
+			Comment questions you have about me!: <br>
 			<textarea name="comment" rows="5" cols="40"></textarea>
 		</form		
 		
