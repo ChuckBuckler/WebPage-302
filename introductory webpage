@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> ICT 302 Website </title>
+	</head>
+
+	<body>
+		<h1> Welcome!! </h1>
+		<h3> This is my new page </h3>
+		
+		<p> My name is Chuck! </p>
+		
+		<a href="https://www.instagram.com/chuckiebuckler/>">Please Follow </a>
+		
+		
+		<a href="https://www.google.com/">Click Here </a>
+		
+		<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj3gvPd-LzkAhVyHDQIHZ_-C1YQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.hudl.com%2Fprofile%2F4242661%2FChuckie-Buckler&psig=AOvVaw1ygrhXHoYe5MHiwFx_-FA6&ust=1567884882455316">
+		
+		<ul>
+			<li>Lexington KY</li>
+			<li>Fort Thomas KY</li>
+			<li>Gatlinburg TN</li>
+		</ul>
+		
+		<table border="1">
+			<tr>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>College They Attend</th>
+			</tr>
+			<tr>
+				<td>Chuck</td>
+				<td>Carter</td>
+				<td>Evan</td>
+			</tr>
+			<tr>
+				<td>Buckler</td>
+				<td>Burke</td>
+				<td>Fick</td>
+			</tr>
+			<tr>
+				<td>University of Kentucky</td>
+				<td>University of Cincy</td>
+				<td>Northern Kentucky University</td>
+			</tr>
+		</table>
+		
+		<form>
+			Comment: <br>
+			<textarea name="comment" rows="5" cols="40"></textarea>
+		</form		
+		
+	</body>
+
+
+</html>
